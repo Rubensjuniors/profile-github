@@ -1,0 +1,22 @@
+.search__title.hidden{
+  display: none;
+}
+
+.search__form.ativo{
+  flex-direction: row;
+}
+
+.form.ativo{
+  width: 180px;
+}
+
+@media(min-width: 550px){
+  .form.ativo{
+    width: 350px;
+  }
+}
+@media(min-width: 720px){
+  .form.ativo{
+    width: 550px;
+  }
+}

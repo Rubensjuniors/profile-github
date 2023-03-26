@@ -1,0 +1,9 @@
+@import './general/global.css';
+@import './general/ativos.css';
+@import './general/erro.css';
+
+@import './search/search-container.css';
+@import './search/search-inpute.css';
+@import './search/search-button.css';
+
+@import './profile/profile-container.css';

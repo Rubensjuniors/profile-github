@@ -1,0 +1,23 @@
+.container__search{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.search__title{
+  text-transform: uppercase;
+  font-family: 'Prompt';
+  font-size: 1.5rem;
+  color: #fff;
+  letter-spacing: 5px;
+}
+
+
+.search__form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  position: relative;
+}
