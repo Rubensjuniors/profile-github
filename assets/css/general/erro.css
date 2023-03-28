@@ -1,20 +1,7 @@
 .erro{
-  width: 200px;
-  position: absolute;
-  top: 53px;
-  right: 53px;
+  width: 250px;
   font-family: 'Prompt';
   font-size: 0.8rem;
+  text-align: center;
   color: red;
-}
-
-@media(min-width: 550px){
-  .erro{
-    right: 135px;
-  }
-}
-@media(min-width: 720px){
-  .erro{
-    right: 255px;
-  }
 }
